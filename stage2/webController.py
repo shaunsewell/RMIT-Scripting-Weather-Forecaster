@@ -56,7 +56,7 @@ def respondToSubmit(parameters):
 		Response page.
 		Gathers a forecast for the chosen city 
 	"""
-	APIKEY = "e258b484b715091e785695a000c3451b"  #key for forecast.io 		
+	APIKEY = "null"  #key for forecast.io 		
 	location = parameters['location']
 	lat,lon = location.split(',')
 	forecastTime = int(time.time())
