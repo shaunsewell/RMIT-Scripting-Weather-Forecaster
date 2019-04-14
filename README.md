@@ -1,2 +1,3 @@
 # RMIT-Scripting-Weather-Forecaster
-RMIT Scripting Language Programming assignment 2
+
+The purpose of this project is to build a webserver that gathers and displays the current forecast for a users location. 
